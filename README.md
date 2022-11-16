@@ -1,12 +1,10 @@
 
-![pngaaa com-5782567 copy](https://user-images.githubusercontent.com/102838167/202283005-9b436713-5068-4a04-b573-0affd798f6d1.png)
+![pngaaa com-5782567 rrrrcopy](https://user-images.githubusercontent.com/102838167/202285981-e2a0413e-a6b6-4cd0-8952-adbbf66ba7d7.png)
 
 # Signal-Forensics
 Signal database acquisition and decryption.
 
 ![signal](https://user-images.githubusercontent.com/102838167/202285009-4fdb283b-466c-47ae-9d8f-532d30d52cff.PNG)
-
-![signal](https://user-images.githubusercontent.com/102838167/202284547-dcfe5f80-550f-4b0d-a863-293d2c31389a.PNG)
 
 ![SQL](https://user-images.githubusercontent.com/102838167/202283462-514c167c-a3d7-447a-bede-50bc9322318c.PNG)
 
