@@ -1,4 +1,4 @@
-# Signal-Forensics![202285981-e2a0413e-a6b6-4cd0-8952-adbbf66ba7d7](https://user-images.githubusercontent.com/102838167/202797526-c800bd58-b305-4691-b087-a8a1d5065083.png)
+![pngaaa com-5782567 rrrrcopy](https://user-images.githubusercontent.com/102838167/202797891-47df542c-3c09-4718-a922-efacd194a587.png)
 
 # Tool to extract and decrypt Signal database.
 
