@@ -1,10 +1,12 @@
 ![pngaaa com-5782567 rrrrcopy](https://user-images.githubusercontent.com/102838167/202797891-47df542c-3c09-4718-a922-efacd194a587.png)
 
-# Tool to extract and decrypt Signal database.
+# Tool to extract and decrypt Signal database (BETA)
 
 Signal database acquisition and decryption.
 
 ![signal](https://user-images.githubusercontent.com/102838167/202285009-4fdb283b-466c-47ae-9d8f-532d30d52cff.PNG)
+
+![Capturar](https://user-images.githubusercontent.com/102838167/202812285-b5cfc84e-0f91-4d8f-9dcd-c81f1c6527e5.JPG)
 
 Unlike other applications, such as Whatsapp, Telegram, Messenger, etc., SIGNAL keeps its local database (signal.db) encrypted in AES-GCM mode, that is, even if it is possible to collect such a base through a collection physical (ROOT and others) or logical (DOWNGRADE), nothing can be done while it is not decrypted.
 For this, we have to obtain three values ​​to decrypt the database, the first is the value of the key that is in the USERKEY_SignalSecret file, in HEXADECIMAL format, located in the KEYSTORE of the device. The other values ​​are present in the XML file, org.thoughtcrime.securesms_preferences.xml, located in Signal's root folder, being the CIFREADED TEXT with AUTHTAG (authentication TAG) + IV, all in BASE64 format.
