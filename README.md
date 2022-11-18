@@ -48,11 +48,6 @@ https://developer.android.com/training/articles/keystore
 
 ![py](https://user-images.githubusercontent.com/102838167/177612624-86f0eb35-c66c-4edd-9bb5-c813feae2565.PNG)
 
-- Doação pagseguro:
-- Link: https://pagseguro.uol.com.br/checkout/nc/nl/donation/sender-identification.jhtml?t=2930fa8d59164d594a4c5b9b217472d79419ae9b60896765812aa72b1c1f38f7&e=true (Daniel Hubscher Avilla)
-
-![pag](https://user-images.githubusercontent.com/102838167/177616982-741c2ba7-9b52-4d6d-911b-3887fc4b433e.PNG)
-
 ## ⚙️ Technologies used
 - C#.
 
