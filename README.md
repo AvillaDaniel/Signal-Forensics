@@ -33,3 +33,34 @@ https://developer.android.com/training/articles/keystore
 
 ![2022-02-09 (38)](https://user-images.githubusercontent.com/102838167/202285394-04e444f5-64f1-46c9-8947-c24ad9783dfa.png)
 
+## 🌐 Download
+
+### Signal-Forensics.zip (2.56GB)
+- 
+- SHA256: 1D7CB73BE2B366F63A7CEEA7F038C95F45724EB4CC82AD39F1DB21F703DAA1AC
+
+### 🚀 Donate:
+
+- PIX: 32145140832 (DANIEL HUBSCHER AVILLA)
+
+- Donate Pypal:
+- Link: https://www.paypal.com/donate/?hosted_button_id=PCMBCJFU2T4CG (Fernanda Santos)
+
+![py](https://user-images.githubusercontent.com/102838167/177612624-86f0eb35-c66c-4edd-9bb5-c813feae2565.PNG)
+
+- Doação pagseguro:
+- Link: https://pagseguro.uol.com.br/checkout/nc/nl/donation/sender-identification.jhtml?t=2930fa8d59164d594a4c5b9b217472d79419ae9b60896765812aa72b1c1f38f7&e=true (Daniel Hubscher Avilla)
+
+![pag](https://user-images.githubusercontent.com/102838167/177616982-741c2ba7-9b52-4d6d-911b-3887fc4b433e.PNG)
+
+## ⚙️ Technologies used
+- C#.
+
+## 🚀 License
+- Free Software.
+
+## 🤖 Contacts
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-a-avilla-0987/)](https://www.linkedin.com/in/daniel-a-avilla-0987/)
+- https://www.linkedin.com/in/daniel-a-avilla-0987/
+- daniel.avilla@policiacivil.sp.gov.br
+
